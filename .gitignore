@@ -154,6 +154,8 @@ pythontex-files-*/
 # endfloat
 *.ttt
 *.fff
+#vim
+*.sw?
 
 # Latexian
 TSWLatexianTemp*
